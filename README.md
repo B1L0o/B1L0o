@@ -21,20 +21,12 @@
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,typescript,react,angular,postgresql" /><br>
   <img src="https://skillicons.dev/icons?i=apple,redhat,vscode,vim,neovim,git,gitlab,github" />
 </div>
-
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&color=%222222&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
-</h3>
-
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
