@@ -13,9 +13,15 @@
   <a href="https://www.instagram.com/robinks._/">
     <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCiCunFBr1MLr3JfPVit10yg">
+    <img alt="Youtube" title "Follow on Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/brasenko/">
+    <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  </a>
 </div>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
@@ -26,5 +32,10 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&color=%222222&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
 </h3>
+
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
