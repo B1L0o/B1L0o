@@ -7,17 +7,21 @@
 </div>
 
 <div align="center">
-  <a href="mailto:robin.paulik33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.instagram.com/robinks._/">
     <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/brasenko/">
+    <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
   <a href="https://www.youtube.com/channel/UCiCunFBr1MLr3JfPVit10yg">
     <img alt="Youtube" title "Follow on Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/brasenko/">
-    <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  
+  <a href="https://open.spotify.com/user/brasenko/">
+    <img alt="Spotify" title "Follow on Spotify" src="https://img.shields.io/badge/-Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/robin-paulik-3008322a9">
+    <img alt="LinkedIn" title "Follow on LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge">
   </a>
 </div>
 
