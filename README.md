@@ -25,11 +25,11 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools That I have Already Used ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,typescript,react,angular,postgresql" /><br>
-  <img src="https://skillicons.dev/icons?i=apple,redhat,vscode,vim,neovim,git,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,kotlin,javascript,typescript,react,angular,postgresql,ocaml" /><br>
+  <img src="https://skillicons.dev/icons?i=apple,redhat,vim,neovim,vscode,androidstudio,unity,git" />
 </div>
 
 <p align = "center">
