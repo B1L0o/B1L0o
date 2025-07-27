@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2>Third-year CS college student at EPITA</h2>
+  <h2>Third-year college student at <bold>EPITA</bold></h2>
 </div>
 
 <div align="center">
