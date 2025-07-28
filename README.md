@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/robinks._/">
     <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/brasenko/">
+  <a href="https://leetcode.com/robinks/">
     <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
   <a href="https://www.youtube.com/channel/UCiCunFBr1MLr3JfPVit10yg">
