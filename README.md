@@ -13,9 +13,6 @@
   <a href="https://leetcode.com/robinks/">
     <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
-  <a href="https://codechef.com/robinks">
-    <img alt="CF" title "Follow on CF" src="https://img.shields.io/badge/-codechef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=brown"/>
-  </a>
   <a href="https://www.youtube.com/channel/UCiCunFBr1MLr3JfPVit10yg">
     <img alt="Youtube" title "Follow on Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
