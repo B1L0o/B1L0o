@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2>Third-year college student at <bold>EPITA</bold></h2>
+  <h2>Fourth-year college student at <bold>EPITA</bold></h2>
 </div>
 
 <div align="center">
@@ -25,11 +25,11 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools That I have Already Used ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,kotlin,javascript,typescript,react,angular,postgresql,ocaml" /><br>
-  <img src="https://skillicons.dev/icons?i=apple,redhat,vim,neovim,vscode,androidstudio,unity,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,react,angular,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,unity,git,docker,kubernetes" />
 </div>
 
 <p align = "center">
