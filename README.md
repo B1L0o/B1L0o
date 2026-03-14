@@ -7,16 +7,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.instagram.com/robinks._/">
-    <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/robinks/">
     <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCiCunFBr1MLr3JfPVit10yg">
-    <img alt="Youtube" title "Follow on Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  
   <a href="https://open.spotify.com/user/brasenko/">
     <img alt="Spotify" title "Follow on Spotify" src="https://img.shields.io/badge/-Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
@@ -31,7 +24,3 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,react,angular,postgresql" /><br>
   <img src="https://skillicons.dev/icons?i=neovim,vscode,unity,git,docker,kubernetes" />
 </div>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
