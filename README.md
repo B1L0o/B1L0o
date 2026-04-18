@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-  <h2>Fourth-year college student at <bold>EPITA</bold></h2>
+  <h2>Fourth-year college student at <bold>EPITA</bold>.
+      Majoring in Quantum Computing.
+  </h2>
 </div>
 
 <div align="center">
@@ -21,6 +23,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,react,angular,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,react,angular,postgresql,rust" /><br>
   <img src="https://skillicons.dev/icons?i=neovim,vscode,unity,git,docker,kubernetes" />
 </div>
