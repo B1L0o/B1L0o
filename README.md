@@ -10,13 +10,16 @@
 
 <div align="center">
   <a href="https://leetcode.com/robinks/">
-    <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+    <img alt="Leetcode" title "Follow on Leetcode" src="https://img.shields.io/badge/-Leetcode-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   </a>
   <a href="https://open.spotify.com/user/brasenko/">
     <img alt="Spotify" title "Follow on Spotify" src="https://img.shields.io/badge/-Spotify-1ed760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/robin-paulik-3008322a9">
     <img alt="LinkedIn" title "Follow on LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge">
+  </a>
+  <a href="https://letterboxd.com/brolik/">
+    <img alt="Letterboxd" title "Follow on Letterboxd" src="https://img.shields.io/badge/-letterboxd-111111?style=for-the-badge&logo=letterboxd&logoColor=orange">
   </a>
 </div>
 
