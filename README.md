@@ -18,9 +18,6 @@
   <a href="https://www.linkedin.com/in/robin-paulik-3008322a9">
     <img alt="LinkedIn" title "Follow on LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge">
   </a>
-  <a href="https://letterboxd.com/brolik/">
-    <img alt="Letterboxd" title "Follow on Letterboxd" src="https://img.shields.io/badge/-letterboxd-111111?style=for-the-badge&logo=letterboxd&logoColor=orange">
-  </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
