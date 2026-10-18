@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2>Fourth-year college student at <bold>EPITA</bold>.
+  <h2>Final year college student at <bold>EPITA</bold>.
       Majoring in Quantum Computing.
   </h2>
 </div>
